@@ -1,1 +1,1 @@
-# Git_training
+Recently updated file
